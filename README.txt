@@ -1,3 +1,7 @@
+Deeplearning N Network Based Recommandation System on Yelp Data by Ben Niu(CU INFO Science)¶
+
+
+
 These files are a transformation of the Yelp challenge data set.
 
 https://www.kaggle.com/c/yelp-recsys-2013
